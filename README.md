@@ -1,5 +1,15 @@
 # DSA in December
 
+**Online Compiler (C++, Python, Java)**: https://replit.com/
+
+**Daily report**: [Docx][100]
+
+**Important Documents**: [Drive Link][101]
+
+**Join Whatsapp**: [Link][102]
+
+**Registration Link**: [Link][103]
+
 
 ## Courses
 
@@ -41,6 +51,11 @@
    [e]: <https://www.kaggle.com/competitions/digit-recognizer/data>
    [f]: <https://www.kaggle.com/competitions/facial-keypoints-detection/data>
    [g]: <https://www.kaggle.com/competitions/word2vec-nlp-tutorial/data>
+   
+   [100]: <https://docs.google.com/document/d/1Y5H6IHCI_XDfdjRRQesR7hgLNck0u0FcusUuCMWn2og/edit?usp=sharing>
+   [101]: <https://drive.google.com/drive/folders/1uhRlsrUn5cNLW0Fjop7KRHztHUoxAM6G?usp=sharing>
+   [102]: <https://chat.whatsapp.com/HUFKM5s1DO7Gt2z9pbgVW7>
+   [103]: <https://forms.gle/YX6DKBa4vWzCApYf6>
    
    
    [1]: <https://drive.google.com/drive/folders/1N7xyEFuGlqPCdaRYiz7deTunglAMx2Zw?usp=sharing>
