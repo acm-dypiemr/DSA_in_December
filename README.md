@@ -1,7 +1,7 @@
 # DSA in December
 
 
-# Links
+# Courses
 
 | Diseases | Notebook |
 | ------ | ------ |
