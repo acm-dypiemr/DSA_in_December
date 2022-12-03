@@ -16,7 +16,7 @@
 | Diseases | Notebook |
 | ------ | ------ |
 | Python Beginner | [Drive Link][1] |
-| Python DSA | [Coming Soon][2] |
+| Python DSA | [Drive Link][2] |
 | C++ Beginner | [Coming Soon][3] |
 | C++ DSA | [Coming Soon][4] |
 | Java Beginner | [Coming Soon][5] |
@@ -59,7 +59,7 @@
    
    
    [1]: <https://drive.google.com/drive/folders/1N7xyEFuGlqPCdaRYiz7deTunglAMx2Zw?usp=sharing>
-   [2]: </>
+   [2]: <https://drive.google.com/drive/folders/1Puo-I520hi3Ew3LFfF14kcLBjwz1PTkA?usp=sharing>
    [3]: </>
    [4]: </>
    [5]: </>
