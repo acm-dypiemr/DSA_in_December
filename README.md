@@ -18,7 +18,7 @@
 | Python Beginner | [Drive Link][1] |
 | Python DSA | [Drive Link][2] |
 | C++ Beginner | [Coming Soon][3] |
-| C++ DSA | [Coming Soon][4] |
+| C++ DSA | [Link1][440] [Link2][441] |
 | Java Beginner | [Coming Soon][5] |
 | Java DSA | [Coming Soon][6] |
 
@@ -60,7 +60,8 @@
    
    [1]: <https://drive.google.com/drive/folders/1N7xyEFuGlqPCdaRYiz7deTunglAMx2Zw?usp=sharing>
    [2]: <https://mega.nz/folder/ZQkQQIqT#Zqd5_fia6L0Bdus0_MgqBw>
-   [4]: <https://drive.google.com/drive/folders/1_SEY0pPgfyO0Q3c-nCevDk-mpaSBgZBC?usp=sharing>
+   [440]: <https://mega.nz/folder/c6pADSLK#riZDwhbrz3l0IMEh_lqiQQ>
+   [441]: <https://mega.nz/folder/28Vnib4L#zuaJzLN7Tg8G2FKOn855tQ>
    [3]: </>
    [5]: </>
    [6]: </>
