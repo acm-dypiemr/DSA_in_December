@@ -18,7 +18,7 @@
 | Python Beginner | [Drive Link][1] |
 | Python DSA | [Drive Link][2] |
 | C++ Beginner | [Coming Soon][3] |
-| C++ DSA | [Link1][4] |
+| C++ DSA | [Coming Soon][4] |
 | Java Beginner | [Coming Soon][5] |
 | Java DSA | [Coming Soon][6] |
 
