@@ -13,7 +13,7 @@
 
 ## Courses
 
-| Diseases | Notebook |
+| Types | Links |
 | ------ | ------ |
 | Python Beginner | [Drive Link][1] |
 | Python DSA | [Drive Link][2] |
@@ -24,7 +24,7 @@
 
 ## Youtube Courses
 
-| Diseases | Notebook |
+| Types | Links |
 | ------ | ------ |
 | Python Beginner | [Youtube Link][11] |
 | Python DSA | [Youtube Link][22] |
